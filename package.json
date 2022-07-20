@@ -1,0 +1,17 @@
+{
+  "name": "cloudlinks",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server",
+    "server": "nodemon server"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "express": "^4.18.1",
+    "nodemon": "^2.0.19"
+  },
+  "dependencies": {
+    "joi": "^17.6.0"
+  }
+}
